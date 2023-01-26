@@ -1,0 +1,15 @@
+/Users/rezayazdi/github/DS/DS/Stack/obj/Debug/net6.0/stack.csproj.AssemblyReference.cache
+/Users/rezayazdi/github/DS/DS/Stack/obj/Debug/net6.0/stack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rezayazdi/github/DS/DS/Stack/obj/Debug/net6.0/stack.AssemblyInfoInputs.cache
+/Users/rezayazdi/github/DS/DS/Stack/obj/Debug/net6.0/stack.AssemblyInfo.cs
+/Users/rezayazdi/github/DS/DS/Stack/obj/Debug/net6.0/stack.csproj.CoreCompileInputs.cache
+/Users/rezayazdi/github/DS/DS/Stack/bin/Debug/net6.0/stack
+/Users/rezayazdi/github/DS/DS/Stack/bin/Debug/net6.0/stack.deps.json
+/Users/rezayazdi/github/DS/DS/Stack/bin/Debug/net6.0/stack.runtimeconfig.json
+/Users/rezayazdi/github/DS/DS/Stack/bin/Debug/net6.0/stack.dll
+/Users/rezayazdi/github/DS/DS/Stack/bin/Debug/net6.0/stack.pdb
+/Users/rezayazdi/github/DS/DS/Stack/obj/Debug/net6.0/stack.dll
+/Users/rezayazdi/github/DS/DS/Stack/obj/Debug/net6.0/refint/stack.dll
+/Users/rezayazdi/github/DS/DS/Stack/obj/Debug/net6.0/stack.pdb
+/Users/rezayazdi/github/DS/DS/Stack/obj/Debug/net6.0/stack.genruntimeconfig.cache
+/Users/rezayazdi/github/DS/DS/Stack/obj/Debug/net6.0/ref/stack.dll
